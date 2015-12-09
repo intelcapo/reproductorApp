@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">reproductorApp</string>
+    <string name="info_app">
+        * Esta es una aplicacion capaz de reproducir canciones la cual tiene
+        como funcionalidad verificar la opcion de progreso de tiempo, volumen y selección de una lista de canciones
+    </string>
+</resources>
